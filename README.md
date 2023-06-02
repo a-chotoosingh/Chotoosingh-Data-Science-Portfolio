@@ -1,2 +1,2 @@
-# Chotoosingh-Data-Science-Portfolio
-Ascari's Data Science Portfolio
+# Ken_Portfolio
+A data science portfolio of Ken Jee.
